@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+body{
+    background: #e1e4f2;
+    font-family: 'Roboto',sans-serif;
+    transition: background .2s ease-in-out;
+    color: #263238;
+}
